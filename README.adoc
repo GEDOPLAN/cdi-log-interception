@@ -1,0 +1,20 @@
+= Demo, CDI Logging Interceptor
+Dominik Mathmann <https://github.com/dominikmathmann[@dominikmathmann]>; 
+
+== Übersicht
+Demo Anwendung zur verwendung von CDI Interecptoren fürs Logging
+
+- CDI Interceptoren
+- Interceptoren mit Parametern
+- Logging
+- Thorntail 
+
+== Verwendung
+
+
+ $ mvn thorntail:run 
+NOTE: Zur Anzeige der Debug-Log-Ausgaben folgendes Kommando verwenden: mvn thorntail:run "-Dthorntail.logging=DEBUG"
+
+NOTE: Zur Anzeige der Debug-Log-Ausgaben folgendes Kommando verwenden: mvn thorntail:run "-Dthorntail.logging=DEBUG"
+
+== Blog:  https://javaeeblog.wordpress.com 

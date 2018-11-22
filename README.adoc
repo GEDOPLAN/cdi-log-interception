@@ -9,6 +9,11 @@ Demo Anwendung zur verwendung von CDI Interecptoren fürs Logging
 - Logging
 - Thorntail 
 
+== Technik
+
+- CDI
+- JBoss Thorntail
+
 == Verwendung
 
 

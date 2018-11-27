@@ -9,11 +9,15 @@ Demo Anwendung zur verwendung von CDI Interecptoren fürs Logging
 - Logging
 - Thorntail 
 
+== Technik
+
+- CDI
+- JBoss Thorntail
+
 == Verwendung
 
 
  $ mvn thorntail:run 
-NOTE: Zur Anzeige der Debug-Log-Ausgaben folgendes Kommando verwenden: mvn thorntail:run "-Dthorntail.logging=DEBUG"
 
 NOTE: Zur Anzeige der Debug-Log-Ausgaben folgendes Kommando verwenden: mvn thorntail:run "-Dthorntail.logging=DEBUG"
 
